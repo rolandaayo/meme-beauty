@@ -6,7 +6,7 @@ Designed to showcase events, vibes, and community around the +234WKND movement.
 
 Built with <strong>Next.js</strong> and <strong>Tailwind CSS</strong> for speed, performance, and clean UI.
 
-<a href="#"><strong>➥ Live Demo Coming Soon</strong></a>
+<a href="https://meme-beauty.vercel.app/"><strong>➥ Live Demo</strong></a>
 </div>
 
 <br />

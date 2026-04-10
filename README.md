@@ -13,7 +13,7 @@ Built with <strong>Next.js</strong> and <strong>Tailwind CSS</strong> for speed,
 
 ### 🎉 Demo Screenshots
 
-![+234WKND Desktop Demo](./readme-images/readme-1.png "Desktop Demo")
+![+234WKND Desktop Demo](./readme-images/readme-01.png "Desktop Demo")
 
 ### Prerequisites
 
